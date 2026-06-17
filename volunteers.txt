@@ -1,0 +1,7 @@
+aarya ,aarya123@gmail.com,9898767698,ABC College
+Aarav,aarav321@gmail.com,8055555098,AAB College
+akash,akash09@gmail.com,9182736455,AAB College
+aayesha ,aayesha44@gmail.com ,9965342398,ABC College
+Aditya,aditya.deshmukh@gmail.com,9765432108, Mumbai University
+neha,neha.joshi@gmail.com,9012345678,Pune Institute of Computer Technology
+Karan,karan.mehta@gmail.com,9898989898,VJTI Mumbai
